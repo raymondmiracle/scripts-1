@@ -10,7 +10,7 @@ $ git clone https://github.com/akhilnarang/scripts
 $ cd scripts
 $ bash setup/<name of script>
 ```
-bash setup/android_build_env.sh
+## just run $ git clone https://github.com/akhilnarang/scripts && cd scripts && bash setup/android_build_env.sh
 
 `android_build_env.sh` is for Ubuntu/Linux Mint/other distributions using the `apt` package manager.
 The rest are named as per the distro.
